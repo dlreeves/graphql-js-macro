@@ -1,0 +1,29 @@
+{
+  "name": "graphql-js-macro",
+  "version": "1.0.0",
+  "description": "Sweet.js macro for parsing GraphQL queries statically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlreeves/graphql-js-macro.git"
+  },
+  "keywords": [
+    "graphql",
+    "sweet-macros",
+  ],
+  "author": "Dwayne Reeves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlreeves/graphql-js-macro/issues"
+  },
+  "homepage": "https://github.com/dlreeves/graphql-js-macro#readme",
+  "dependencies": {
+    "graphql": "^0.4.14"
+  },
+  "devDependencies": {
+    "sweet.js": "^0.7.4"
+  }
+}
